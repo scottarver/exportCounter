@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<your-username>/js-ts-export-counter.git"
+    "url": "git+https://github.com/scottarver/exportCounter.git"
   },
   "keywords": [
     "JavaScript",
