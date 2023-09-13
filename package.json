@@ -1,0 +1,28 @@
+{
+  "name": "js-ts-export-counter",
+  "version": "1.0.0",
+  "description": "A Node.js utility to count the number of exports in JavaScript and TypeScript files within a directory.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<your-username>/js-ts-export-counter.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "Exports",
+    "Counter"
+  ],
+  "author": "Jason Tarver",
+  "bugs": {
+    "url": "https://github.com/scottarver/exportCounter/issues"
+  },
+  "homepage": "https://github.com/scottarver/exportCounter#readme",
+  "dependencies": {
+    "yargs": "^17.1.1",
+    "json2csv": "^5.0.6"
+  }
+}
